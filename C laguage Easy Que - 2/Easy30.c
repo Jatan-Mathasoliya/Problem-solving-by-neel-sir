@@ -31,6 +31,4 @@ for (i=0; i < len; i++) {
 	}
 }
 printf("Even : %d Odd : %d", sum1,sum2);
-
-
 }

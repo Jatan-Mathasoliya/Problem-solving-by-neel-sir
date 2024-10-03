@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 //27. Write a program to extract the file
 //extension from a given filename.Example:
 //Input: "document.pdf", Output: "pdf".
@@ -10,7 +10,7 @@ int main() {
 	int i,j;
 	char target = '.';
 	int index = 0;
-	char final[2];
+	char final[10];
 	int len2 = strlen(final);
 
 	for (i=0; i < len; i++) {

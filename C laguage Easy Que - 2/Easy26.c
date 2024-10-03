@@ -5,8 +5,8 @@
 //Input: ("codinggita", "a"), Output: true.
 
 int main() {
-	char str[] = "codinggita";
-	char check[] = "a";
+	char str[] = "jatan";
+	char check[] = "c";
 	int len = strlen(str);
 	int i;
 	int sum = 0;
